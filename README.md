@@ -31,7 +31,7 @@ CREATE DATABASE herkatdb;
 En la raíz del proyecto, verifique si existe un archivo `.env` con la siguiente variable (sino, por favor crearla):
 
 ```sql
-CLOUDINARY_URL=cloudinary://619597231611747:U4pZz7YHhodtlAMwLTARWv8siKw@dmumaypeq
+{CLOUDINARY_URL}
 ```
 
 *Esta variable permite subir imágenes a Cloudinary.*
